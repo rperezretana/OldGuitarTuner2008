@@ -1,0 +1,5 @@
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\SoundAnalysis\bin\Debug\SoundAnalysis.dll
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\SoundAnalysis\bin\Debug\SoundAnalysis.pdb
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\SoundAnalysis\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\SoundAnalysis\obj\Debug\SoundAnalysis.dll
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\SoundAnalysis\obj\Debug\SoundAnalysis.pdb

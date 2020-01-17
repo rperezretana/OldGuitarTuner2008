@@ -1,0 +1,11 @@
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\SoundAnalysis\bin\Release\SoundAnalysis.dll
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\SoundAnalysis\bin\Release\SoundAnalysis.pdb
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\SoundAnalysis\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\SoundAnalysis\obj\Release\SoundAnalysis.dll
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\SoundAnalysis\obj\Release\SoundAnalysis.pdb
+C:\Users\Rolando\Dropbox (Personal)\FftGuitarTuner_src\SoundAnalysis\bin\Release\SoundAnalysis.dll
+C:\Users\Rolando\Dropbox (Personal)\FftGuitarTuner_src\SoundAnalysis\bin\Release\SoundAnalysis.pdb
+C:\Users\Rolando\Dropbox (Personal)\FftGuitarTuner_src\SoundAnalysis\obj\Release\SoundAnalysis.csprojAssemblyReference.cache
+C:\Users\Rolando\Dropbox (Personal)\FftGuitarTuner_src\SoundAnalysis\obj\Release\SoundAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Rolando\Dropbox (Personal)\FftGuitarTuner_src\SoundAnalysis\obj\Release\SoundAnalysis.dll
+C:\Users\Rolando\Dropbox (Personal)\FftGuitarTuner_src\SoundAnalysis\obj\Release\SoundAnalysis.pdb

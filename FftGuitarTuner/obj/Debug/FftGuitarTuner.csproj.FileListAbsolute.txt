@@ -1,0 +1,14 @@
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\FftGuitarTuner.exe
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\FftGuitarTuner.pdb
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\SoundAnalysis.dll
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\SoundCapture.dll
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\SoundAnalysis.pdb
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\FftGuitarTuner\bin\Debug\SoundCapture.pdb
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.FrequenciesScale.resources
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.MainForm.resources
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.Properties.Resources.resources
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.SelectDeviceForm.resources
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.csproj.GenerateResource.Cache
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.exe
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\FftGuitarTuner\obj\Debug\FftGuitarTuner.pdb

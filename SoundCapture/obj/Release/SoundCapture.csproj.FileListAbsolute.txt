@@ -1,0 +1,16 @@
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\SoundCapture\bin\Release\SoundCapture.dll
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\SoundCapture\bin\Release\SoundCapture.pdb
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\SoundCapture\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\SoundCapture\obj\Release\SoundCapture.dll
+C:\Users\Rolo\Documents\My Dropbox\FftGuitarTuner_src\SoundCapture\obj\Release\SoundCapture.pdb
+C:\Users\Rolando\Dropbox (Personal)\FftGuitarTuner_src\SoundCapture\bin\Release\SoundCapture.dll
+C:\Users\Rolando\Dropbox (Personal)\FftGuitarTuner_src\SoundCapture\bin\Release\SoundCapture.pdb
+C:\Users\Rolando\Dropbox (Personal)\FftGuitarTuner_src\SoundCapture\bin\Release\Microsoft.DirectX.DirectSound.dll
+C:\Users\Rolando\Dropbox (Personal)\FftGuitarTuner_src\SoundCapture\bin\Release\Microsoft.DirectX.dll
+C:\Users\Rolando\Dropbox (Personal)\FftGuitarTuner_src\SoundCapture\bin\Release\Microsoft.DirectX.DirectSound.xml
+C:\Users\Rolando\Dropbox (Personal)\FftGuitarTuner_src\SoundCapture\bin\Release\Microsoft.DirectX.xml
+C:\Users\Rolando\Dropbox (Personal)\FftGuitarTuner_src\SoundCapture\obj\Release\SoundCapture.csprojAssemblyReference.cache
+C:\Users\Rolando\Dropbox (Personal)\FftGuitarTuner_src\SoundCapture\obj\Release\SoundCapture.csproj.CoreCompileInputs.cache
+C:\Users\Rolando\Dropbox (Personal)\FftGuitarTuner_src\SoundCapture\obj\Release\SoundCapture.csproj.CopyComplete
+C:\Users\Rolando\Dropbox (Personal)\FftGuitarTuner_src\SoundCapture\obj\Release\SoundCapture.dll
+C:\Users\Rolando\Dropbox (Personal)\FftGuitarTuner_src\SoundCapture\obj\Release\SoundCapture.pdb
